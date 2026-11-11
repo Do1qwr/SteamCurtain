@@ -1,0 +1,16 @@
+# Сборка
+build/
+*.exe
+*.pdb
+*.obj
+
+# Архивы релизов
+dist/
+*.zip
+
+# Служебное
+.vs/
+*.user
+*.suo
+Thumbs.db
+desktop.ini
