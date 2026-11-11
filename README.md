@@ -75,6 +75,6 @@ build\            результат сборки
 
 Хранятся в `%APPDATA%\SteamCurtain\settings.txt`, лог — в `%APPDATA%\SteamCurtain\log.txt`.
 
-## Лицензия
 
-MIT — см. `LICENSE`. Программа не связана с Valve Corporation; Steam — товарный знак Valve.
+
+# SteamCurtain 1.0.0 Author: **๖ۣۜMoήSter√♫** A curtain panel for the right edge of the screen: move your mouse to the corner — the Steam window smoothly slides out from the edge, like a "Right dock." It hides when you click away, press Esc, or switch windows. ## Features - Slide-out Steam window from the top or bottom right corner (corners are configurable). - Smooth sliding in and out, rounded window corners. - Doesn’t trigger while dragging the slider or holding the mouse button. - Doesn’t appear in full-screen games. - Drag with the mouse with position memory. - Tray settings: zone size, mouse speed threshold, animation duration, hide delay, corners. - Auto-start with Windows, system tray icon. ## Requirements - Windows 10 or 11 (x64). - .NET Framework 4.x — already included in Windows. - Running Steam client. ## Installation 1. Unpack the archive to any folder. 2. Run `SteamCurtain.exe`. 3. The icon will appear in the tray (near the clock). If you don’t see it — click the “show hidden icons” arrow.
